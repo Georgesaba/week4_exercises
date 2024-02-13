@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/animalsSpeak.dir/animalsSpeak.cpp.o -o ../bin/animalsSpeak  libAnimals.a 

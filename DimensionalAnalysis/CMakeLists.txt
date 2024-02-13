@@ -10,3 +10,4 @@ set(CMAKE_CXX_FLAGS "-O2")  # turn optimisations on
 
 add_executable(no_analysis physical_quantities.cpp)
 add_executable(with_analysis physical_quantities_dimensional.cpp)
+add_executable(run_file main.cpp Scene.cpp Shape.cpp)

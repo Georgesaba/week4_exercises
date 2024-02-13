@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 CMakeFiles/run_file.dir/main.cpp.o CMakeFiles/run_file.dir/Scene.cpp.o CMakeFiles/run_file.dir/Shape.cpp.o -o bin/run_file 
